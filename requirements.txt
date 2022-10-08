@@ -6,3 +6,7 @@ vibrant
 
 darkmode
 video
+
+payment option
+send money
+receive money
